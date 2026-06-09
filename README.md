@@ -6,7 +6,7 @@
 
 </div>
 
----
+
 
 ## 💫 About Me
 🔭 I’m currently working on something cool >.< <br>
@@ -14,7 +14,6 @@
 💬 Ask me about JavaScript, PHP, Laravel<br>
 ⚡ Fun fact: I love building systems and solving problems<br>
 
----
 
 ## 🌐 Socials
 
@@ -36,7 +35,6 @@
 </a>
 </p>
 
----
 
 # 💻 Tech Stack
 
