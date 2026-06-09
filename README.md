@@ -58,16 +58,4 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
 </p>
 
----
-
-
-
----
-
----
-
-
-
----
-
 
