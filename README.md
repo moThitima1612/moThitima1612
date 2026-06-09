@@ -10,10 +10,10 @@
 
 ## 💫 About Me
 
-* 🔭 I’m currently working on something cool >.<
-* 🌱 I’m currently learning **AI, ML and Blockchain**
-* 💬 Ask me about **JavaScript, PHP, Laravel, Go**
-* ⚡ Fun fact: I love building systems and solving problems
+🔭 I’m currently working on something cool >.<
+🌱 I’m currently learning AI, ML and Blockchain, Go
+💬 Ask me about JavaScript, PHP, Laravel
+⚡ Fun fact: I love building systems and solving problems
 
 ---
 
