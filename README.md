@@ -10,6 +10,8 @@
 
 ## 💫 About Me
 
+## 💫 About Me
+
 🔭 I’m currently working on something cool >.<
 🌱 I’m currently learning AI, ML and Blockchain, Go
 💬 Ask me about JavaScript, PHP, Laravel
