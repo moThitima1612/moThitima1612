@@ -86,12 +86,3 @@
 ---
 
 
----
-
-<div align="center">
-
-### 👀 Visitor Count
-
-<img src="https://visitcount.itsvg.in/api?id=parsilver&icon=5&color=6"/>
-
-</div>
