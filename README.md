@@ -64,14 +64,6 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=parsilver&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ---
 
 
