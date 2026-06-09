@@ -79,10 +79,4 @@
 
 ---
 
-# 📈 Contribution Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=parsilver\&theme=tokyo-night)](https://github.com/parsilver)
-
----
-
 
