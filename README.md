@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm moThitima1612
+# 👋 Hi there, I'm mo
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;PHP+%7C+Laravel+%7C+Go;AI+%7C+ML+%7C+Blockchain;Always+learning+new+things+🚀" />
 
